@@ -1,6 +1,6 @@
 {
   "name": "@zightech/root",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
@@ -16,6 +16,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leonardo-junior/lalla.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [],
   "author": "",
