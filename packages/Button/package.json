@@ -1,6 +1,6 @@
 {
   "name": "@zightech/button",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "97ed9fcd30e2dcdc99ec82120af28ea742a7d07e"
