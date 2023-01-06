@@ -17,7 +17,7 @@
     "dev": "rm -rf dist && microbundle watch --format esm,cjs --jsx React.createElement --jsxImportSource react --globals react/jsx-runtime=jsx --css-modules=true --output dist",
     "build": "rm -rf dist && microbundle --format esm,cjs --jsx React.createElement --jsxImportSource react --globals react/jsx-runtime=jsx --css-modules=true --output dist"
   },
-  "version": "1.0.6",
+  "version": "1.1.0",
   "license": "MIT",
   "gitHead": "d13435a8684abf12320c1a506b4803692c81bdb5",
   "dependencies": {
