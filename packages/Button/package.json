@@ -2,5 +2,6 @@
   "name": "@cyberg/button",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "5c1a7c6cc00bc846b060724fbd4bb634d445bde1"
 }
