@@ -5,13 +5,16 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^6.4.0"
+    "lerna": "^6.4.0",
+    "microbundle": "^0.15.1"
   },
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npx lerna publish --no-private -y"
+    "build": "lerna run build",
+    "prepublish": "yarn build",
+    "publish": "lerna publish --no-private -y"
   },
   "repository": {
     "type": "git",
