@@ -1,7 +1,12 @@
 {
   "name": "@zightech/button",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "version": "0.0.17",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "7610c8953b2f14d00c6709aaa6da3513ba944e47"
+  "gitHead": "d13435a8684abf12320c1a506b4803692c81bdb5"
 }
