@@ -5,10 +5,8 @@
   "source": "./index.ts",
   "main": "./dist/main.cjs",
   "module": "./dist/main.esm.js",
-  "files": [
-    "dist",
-    "index.ts"
-  ],
+  "files": ["dist"],
+  "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
