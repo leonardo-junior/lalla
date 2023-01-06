@@ -6,8 +6,7 @@
   "main": "./dist/main.cjs",
   "module": "./dist/main.esm.js",
   "files": [
-    "*.d.ts",
-    "dist/*.css"
+    "dist"
   ],
   "publishConfig": {
     "access": "public",
