@@ -2,7 +2,7 @@
   "name": "@zightech/main",
   "private": false,
   "type": "module",
-  "source": "./index.tsx",
+  "source": "./index.ts",
   "main": "./dist/main.cjs",
   "module": "./dist/main.esm.js",
   "files": [
