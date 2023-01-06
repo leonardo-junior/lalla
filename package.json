@@ -1,6 +1,6 @@
 {
   "name": "@cyberg/root",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
