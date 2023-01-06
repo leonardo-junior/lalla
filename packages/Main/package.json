@@ -6,7 +6,7 @@
   "main": "./dist/main.cjs",
   "module": "./dist/main.esm.js",
   "files": [
-    "index.d.ts",
+    "dist/index.d.ts",
     "dist/*.css"
   ],
   "publishConfig": {
