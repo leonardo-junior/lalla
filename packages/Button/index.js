@@ -1,3 +1,3 @@
 function lala (){
-  return 'oi'
+  return 'oi colega!'
 }
